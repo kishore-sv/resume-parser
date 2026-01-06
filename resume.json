@@ -1,0 +1,209 @@
+{
+  "profile": {
+    "name": "Jeremy Edberg",
+    "email": "jedberg@gmail.com",
+    "phone": "",
+    "location": "",
+    "url": "linkedin.com/in/jedberg",
+    "summary": "I like working on challenging projects that no one has done before, usually involving the quick absorption of new information and synthesizing that into creative, effective, and cost-efficient solutions. Knowing a system from top to bottom and being able to leverage that knowledge to improve it is my best skillset. I also enjoy mentoring people and fostering their talents. Specialties: Engineering Leadership, Product Development, Cloud Computing, Chaos Engineering, Distributed Systems, Virtualization, Unix/Linux Administration, Security, General Technical Operations, Web Development, Scalable/Reliable Systems, Web Architectures, Web Services, Systems Management"
+  },
+  "educations": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "BA, Cognitive Science, Creative Writing",
+      "gpa": "",
+      "date": "2002 - 2003",
+      "descriptions": []
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "BA, Cognitive Science",
+      "gpa": "",
+      "date": "1996 - 1999",
+      "descriptions": []
+    }
+  ],
+  "workExperiences": [
+    {
+      "company": "Amazon",
+      "jobTitle": "Principal Engineer",
+      "date": "Apr 2022 - Present (1 year 3 months)",
+      "descriptions": [
+        "Architect paired with a Director for the Alexa Operational Excellence team to make her faster, more",
+        "reliable, more accurate, and more efficient, and improve overall customer experience. A combination of",
+        "DevOps and MLOps. Currently solving the problem, \"How do you measure the accuracy of a stochastic",
+        "AI system?\". Part of the primary contact team between AWS and Alexa. Designed and shepherded",
+        "observability tools for a real-time, reactive system, reducing Alexa latency by 12% annually. Filed two",
+        "speech-processing related patents."
+      ]
+    },
+    {
+      "company": "MinOps",
+      "jobTitle": "CEO and Founder",
+      "date": "May 2016 - Apr 2022 (6 years)",
+      "descriptions": [
+        "We made a SQL interface to manage your cloud. Shut down the company after two open source",
+        "programs dropped doing the same thing. It's hard to compete with free!"
+      ]
+    },
+    {
+      "company": "CloudNative",
+      "jobTitle": "Chief Product Officer and Cofounder",
+      "date": "Jun 2015 - May 2016 (1 year)",
+      "descriptions": [
+        "We ran your cloud infrastructure so you didn't have to. Made CI/CD tools and did consulting.",
+        "Successfully exited."
+      ]
+    },
+    {
+      "company": "Netflix",
+      "jobTitle": "Distributed Data Systems Architect",
+      "date": "Jan 2014 - Feb 2015 (1 year 2 months)",
+      "descriptions": [
+        "We joke that we are a logging company that plays movies, my job is to make that truer. Answer the",
+        "question “How do we collect and store our data to make it easiest for our Engineers to produce, utilize",
+        "and consume?” Make data a 1st class citizen at Netflix. Hone the data story from the beginning of the",
+        "Jeremy Edberg - page1pipeline to the end. Align our data story throughout the company. Create and evangelize data best",
+        "practices. Discover and disseminate data patterns and anti-patterns. Curate the Netflix Data Platform"
+      ]
+    },
+    {
+      "company": "Netflix",
+      "jobTitle": "Founding Site Reliability Engineer (SRE)",
+      "date": "Jul 2011 - Apr 2014 (2 years 10 months)",
+      "descriptions": [
+        "Design systems to scale and deliver a great experience, and make sure that when someone wants to",
+        "play a movie on Netflix, they can."
+      ]
+    },
+    {
+      "company": "",
+      "jobTitle": "",
+      "date": "",
+      "descriptions": [
+        "Founding member of Netflix's first SRE team. Primary technical contact between AWS and Netflix.",
+        "Created the role of Chaos Engineer."
+      ]
+    },
+    {
+      "company": "",
+      "jobTitle": "",
+      "date": "",
+      "descriptions": [
+        "Work throughout the company evangelizing best practices for reliability and resilient architecture. Be",
+        "the call leader for major outages driving a quick resolution and alleviating customer impact as quickly",
+        "as possible. Write tools (generally in Python) to improve reliability and information flow throughout the",
+        "company. Help with hiring and recruiting. During my tenure the team grew to 11 members and reliability",
+        "increased by an order of magnitude."
+      ]
+    },
+    {
+      "company": "Mentor/Advisor",
+      "jobTitle": "",
+      "date": "Jul 2010 - Jul 2012 (2 years 1 month)",
+      "descriptions": [
+        "Advisor to member startups; provide domain knowledge and expertise in the areas of operations and",
+        "scaling as well as product and social media marketing."
+      ]
+    },
+    {
+      "company": "Reddit, Inc.",
+      "jobTitle": "First Engineering Hire/Founding DevOps Engineer/Interim CTO",
+      "date": "Mar 2007 - Jun 2011 (4 years 4 months)",
+      "descriptions": [
+        "Moved reddit from the datacenter to the cloud. We were the first major website hosted fully on AWS. I",
+        "was the primary technical contact between AWS and reddit. Managed the entire engineering team after",
+        "the departure of the founders and other founding engineers, and grew the engineering team 3x in that",
+        "time."
+      ]
+    },
+    {
+      "company": "",
+      "jobTitle": "",
+      "date": "",
+      "descriptions": [
+        "Responsible for all technology including system architecture, hiring, managing all engineers, capacity",
+        "planning, budgeting, operations, vendor relations, and keeping costs down by maximizing automation",
+        "while minimizing infrastructure. Involved in the design and testing of all major site features, marketing,",
+        "determining new product directions and ideas, writing open source code, promotion, management of",
+        "a 18M+ user community, and all other aspects of running reddit.com, an Alexa global top 100 website",
+        "with one of the largest Pylons installations on the internet. Oversaw a 30X traffic growth."
+      ]
+    },
+    {
+      "company": "",
+      "jobTitle": "",
+      "date": "",
+      "descriptions": [
+        "Required to be an expert on how the system works end-to-end and learn and integrate new",
+        "technologies quickly. Represent reddit at major conferences as an expert in virtualized environments",
+        "(aka Cloud Computing) and rapid website scaling."
+      ]
+    },
+    {
+      "company": "eBay",
+      "jobTitle": "Senior Systems Engineer",
+      "date": "",
+      "descriptions": [
+        "Jul 2006 - May 2007 (11 months)"
+      ]
+    },
+    {
+      "company": "",
+      "jobTitle": "",
+      "date": "",
+      "descriptions": [
+        "Jeremy Edberg - page2Assist the product development team by maintaining their test lab and performing product evaluations",
+        "to certify products for inclusion in the eBay platform. Primary focus was Solaris/Unix administration and",
+        "network configuration. Also administering IBM Bladecenters, Netscalers, F5's, XServ Raids and myriad",
+        "other specialty hardware."
+      ]
+    },
+    {
+      "company": "eBay",
+      "jobTitle": "Security Engineer",
+      "date": "Jul 2003 - Jul 2006 (3 years 1 month)",
+      "descriptions": [
+        "Developing fraud detection and prevention software; investigating computer crime; developing",
+        "investigation tools; and serving as a security consultant for the entire organization as well as customers.",
+        "Developing, deploying and maintaining eBay Inc.'s IDS's and log aggregation in order to protect eBay",
+        "customer data. Granted multiple security related patents for this work."
+      ]
+    },
+    {
+      "company": "System/Network Administrator",
+      "jobTitle": "System/Network Administrator",
+      "date": "Dec 1999 - Aug 2001 (1 year 9 months)",
+      "descriptions": [
+        "All around network/firewall/unix/windows admin."
+      ]
+    },
+    {
+      "company": "University of California, Berkeley",
+      "jobTitle": "Special Projects Coordinator",
+      "date": "Aug 1996 - Nov 1999 (3 years 4 months)",
+      "descriptions": [
+        "Developing timelines and executing on special projects as necessary. Major project was coordinating",
+        "and setting up the technical aspects of running the student elections, enabling 20,000 students to vote",
+        "for class officers."
+      ]
+    }
+  ],
+  "projects": [],
+  "skills": {
+    "descriptions": [
+      "Virtualization",
+      "Social Media",
+      "Cloud Computing",
+      "Security",
+      "Linux",
+      "Web Services",
+      "Web Development",
+      "Elastic Snapping",
+      "Networking"
+    ]
+  },
+  "custom": {
+    "descriptions": []
+  }
+}
