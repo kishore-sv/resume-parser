@@ -45,6 +45,8 @@ npm run build
 npm start
 ```
 
+>Run this project after build only to get output
+
 ---
 
 This will:
